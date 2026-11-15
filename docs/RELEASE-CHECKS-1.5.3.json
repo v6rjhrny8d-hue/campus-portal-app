@@ -1,0 +1,12 @@
+{
+  "versionName": "1.5.3",
+  "versionCode": 10503,
+  "apkSha256": "5d750d9abd8c36aaf786845280f6b5212acc1ff4738a3a180529c38a89f44ed6",
+  "robolectricApi35Tests": 80,
+  "robolectricApi26Tests": 1,
+  "deviceTest": false,
+  "overnightTest": false,
+  "horizontalPageSwitch": true,
+  "capsuleDock": true,
+  "themedIntervalSheet": true
+}

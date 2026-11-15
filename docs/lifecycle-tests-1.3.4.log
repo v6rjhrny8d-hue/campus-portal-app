@@ -1,0 +1,8 @@
+JUnit version 4.13.2
+[Robolectric] WARN: Android SDK 36 requires Java 21 (have Java 17). Tests won't be run on SDK 36 unless explicitly requested.
+.........Intent = Intent { act=android.os.action.DEVICE_IDLE_MODE_CHANGED }; Matching wrappers: []
+..............................
+Time: 5.419
+
+OK (39 tests)
+

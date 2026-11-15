@@ -1,0 +1,23 @@
+{
+  "version": "1.5.7",
+  "versionCode": 10507,
+  "core_assertions_passed": 284,
+  "android_simulation_tests_passed": 99,
+  "api35_tests": 98,
+  "api26_tests": 1,
+  "native_layouts_reviewed": [
+    "background-light",
+    "background-dark",
+    "delayed-light",
+    "delayed-dark",
+    "night-light",
+    "night-dark",
+    "delayed-320-font130"
+  ],
+  "device_or_overnight_tests_run": false,
+  "same_certificate_as_1_5_6": true,
+  "apk_sha256": "aff1c235446f09a45e56a89e4e3ea30f3a9ba1fca2a7b09c404ce57b14615876",
+  "apk_size": 349222,
+  "alarm_dispatch_delay_fixed": false,
+  "oem_night_setting_read_or_changed": false
+}

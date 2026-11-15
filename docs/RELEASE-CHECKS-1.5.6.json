@@ -1,0 +1,18 @@
+{
+  "version": "1.5.6",
+  "versionCode": 10506,
+  "core_assertions_passed": 284,
+  "android_simulation_tests_passed": 91,
+  "native_layouts_reviewed": [
+    "history-light",
+    "history-dark",
+    "contact-light",
+    "contact-dark"
+  ],
+  "retention": "today and previous 29 Beijing calendar days",
+  "device_or_overnight_tests_run": false,
+  "same_certificate_as_1_5_5": true,
+  "apk_sha256": "5f53c4f37344acc64b29d0a77a6e8803fe2764166ded73fb959e86c5024fea15",
+  "apk_size": 345126,
+  "alarm_dispatch_delay_fixed": false
+}

@@ -1,0 +1,10 @@
+{
+  "versionName": "1.5.4",
+  "versionCode": 10504,
+  "apkSha256": "0c74fca7898302d761c249ad790771c6f727a570c40e080485787c3b9e16d983",
+  "cardRadiusDp": 34,
+  "dockHeightDp": 68,
+  "buildAndSignatureVerified": true,
+  "deviceTest": false,
+  "backgroundTestsRerun": false
+}

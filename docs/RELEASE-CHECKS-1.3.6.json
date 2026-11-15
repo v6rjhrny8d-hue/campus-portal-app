@@ -1,0 +1,17 @@
+{
+  "package": "org.campusportal.app",
+  "versionName": "1.3.6",
+  "versionCode": 10306,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "base": "1.3.5",
+  "apkSha256": "06d84207193945fa04379e9d1664b11d53b7c75fa85c060d9b055c9f5bb134e3",
+  "signerSha256": "54350137972a6efa661310f61c0631d7e8ced6a542ad5e287733ecdb68bab8bd",
+  "coreAssertions": 247,
+  "robolectricApi35Tests": 52,
+  "renderChecks": "Wheel light and dark; guide dark; Robolectric",
+  "android16DeviceTest": false,
+  "overnightDeviceTest": false,
+  "powerSavingsMeasured": false,
+  "localPcChangesVerified": false
+}

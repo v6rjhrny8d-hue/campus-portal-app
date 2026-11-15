@@ -1,0 +1,21 @@
+{
+  "campus-portal-app-1.2.0.apk": {
+    "sha256": "d000a523465bd405544a3a833057592e2745dfe0867fa6971185cb504f333bcd",
+    "v2": true,
+    "v3": true
+  },
+  "campus-portal-app-1.2.1.apk": {
+    "sha256": "9bbee5a5749d5a1e31a12ed6bef22d3aef8fed6df24596da663c3595b102c30f",
+    "v2": true,
+    "v3": true
+  },
+  "same_certificate": true,
+  "unchanged_settings_and_schedule": {
+    "Config.java": true,
+    "MainActivity.java": true,
+    "ScheduleManager.java": true,
+    "ScheduleReceiver.java": true,
+    "core/Schedule.java": true
+  },
+  "storage_and_ui_only_version_text_changed": true
+}

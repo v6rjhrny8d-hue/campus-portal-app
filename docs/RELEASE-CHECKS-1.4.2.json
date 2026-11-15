@@ -1,0 +1,17 @@
+{
+  "versionName": "1.4.2",
+  "versionCode": 10402,
+  "base": "1.4.1",
+  "apkSha256": "1b9e39bf0ea8ca617971bf0f2b4b01d852cb3386c83effd28e6763e30eb496a6",
+  "signerSha256": "54350137972a6efa661310f61c0631d7e8ced6a542ad5e287733ecdb68bab8bd",
+  "robolectricApi35Tests": 68,
+  "robolectricApi26Tests": 1,
+  "opaqueDock": true,
+  "rootBottomPaddingDp": 0,
+  "contentDrawsBehindDock": true,
+  "lastFieldScrollsAboveSaveActions": true,
+  "lightAndDarkRenderingReviewed": true,
+  "deviceShadowMeasured": false,
+  "android16DeviceTest": false,
+  "overnightDeviceTest": false
+}

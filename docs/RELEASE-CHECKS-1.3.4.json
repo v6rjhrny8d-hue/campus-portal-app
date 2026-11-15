@@ -1,0 +1,9 @@
+{
+  "version": "1.3.4",
+  "versionCode": 10304,
+  "coreAssertions": 246,
+  "android15SimulationTests": 39,
+  "android16DeviceTested": false,
+  "realCampusAuthenticationTested": false,
+  "sha256": "c9bba00b61e217357c0084fdf5a18e60848ac9dec05449818de8cda23490eb54"
+}

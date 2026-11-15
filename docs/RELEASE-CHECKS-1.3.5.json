@@ -1,0 +1,9 @@
+{
+  "version": "1.3.5",
+  "versionCode": 10305,
+  "coreAssertions": 246,
+  "android15SimulationTests": 46,
+  "android16DeviceTested": false,
+  "overnightDeviceTested": false,
+  "sha256": "6f388be43abc3da6f4fc8a831c554aaf11cc66bc5822cc8205be15373d728e26"
+}

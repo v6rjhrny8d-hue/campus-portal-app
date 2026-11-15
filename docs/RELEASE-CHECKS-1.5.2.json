@@ -1,0 +1,10 @@
+{
+  "versionName": "1.5.2",
+  "versionCode": 10502,
+  "apkSha256": "b09bdd789941d84e0361c9542da2848c0bbea7ee642425b0d5ae022a29980b94",
+  "robolectricApi35Tests": 78,
+  "robolectricApi26Tests": 1,
+  "deviceTest": false,
+  "cardAndDockRadiusDp": 24,
+  "headerSidePaddingDp": 16
+}

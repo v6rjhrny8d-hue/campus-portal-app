@@ -1,0 +1,12 @@
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+APK: /workspace/scratch/06fbec4a20c5/deliverables/campus-portal-app-1.5.6.apk
+SHA256: 5f53c4f37344acc64b29d0a77a6e8803fe2764166ded73fb959e86c5024fea15

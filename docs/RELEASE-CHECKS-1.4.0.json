@@ -1,0 +1,18 @@
+{
+  "package": "org.campusportal.app",
+  "versionName": "1.4.0",
+  "versionCode": 10400,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "base": "1.3.6",
+  "designReference": "TransRead 0.5.48",
+  "apkSha256": "1627efed0098fe804ed5dba39cf3d2f38d104547318cc1f0efa25427f33faa7a",
+  "signerSha256": "54350137972a6efa661310f61c0631d7e8ced6a542ad5e287733ecdb68bab8bd",
+  "coreAssertions": 247,
+  "robolectricApi35Tests": 60,
+  "robolectricApi26Tests": 1,
+  "android16DeviceTest": false,
+  "hardwareBlurAndFrameRateMeasured": false,
+  "overnightDeviceTest": false,
+  "localPcChangesVerified": false
+}

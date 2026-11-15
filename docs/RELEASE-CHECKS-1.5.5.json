@@ -1,0 +1,12 @@
+{
+  "version": "1.5.5",
+  "versionCode": 10505,
+  "core_assertions_passed": 268,
+  "android_simulation_tests_passed": 84,
+  "device_or_overnight_tests_run": false,
+  "same_certificate_as_1_5_4": true,
+  "certificate_sha256": "54350137972a6efa661310f61c0631d7e8ced6a542ad5e287733ecdb68bab8bd",
+  "apk_sha256": "8aa9e43d11eb14b98d17149e98cd6fe3424bfef8d92b3a16ae65ac046e50bae7",
+  "apk_size": 332838,
+  "alarm_dispatch_delay_fixed": false
+}

@@ -1,0 +1,6 @@
+<resources>
+    <color name="app_surface">#1B222A</color>
+    <color name="app_container">#282F37</color>
+    <color name="dialog_surface">#282F37</color>
+    <color name="app_primary">#A1B1C0</color>
+</resources>

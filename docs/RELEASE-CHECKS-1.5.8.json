@@ -1,0 +1,10 @@
+{
+  "version": "1.5.8",
+  "versionCode": 10508,
+  "core_assertions_passed": 284,
+  "android_simulation_tests_passed": 105,
+  "device_or_overnight_tests_run": false,
+  "same_certificate_as_1_5_7": true,
+  "apk_sha256": "1acf2b4f4c3bad9fab6cae2df964ff89da1228c7e74b2471041a391422c1d5ce",
+  "apk_size": 357414
+}

@@ -1,0 +1,25 @@
+{
+  "package": "org.campusportal.app",
+  "versionName": "1.4.1",
+  "versionCode": 10401,
+  "minSdk": 26,
+  "targetSdk": 35,
+  "base": "1.4.0",
+  "apkSha256": "cecd3a9fc14e8879b38458d22d5103cafda7ff6a5a98778fcb2227c95ffcebab",
+  "signerSha256": "54350137972a6efa661310f61c0631d7e8ced6a542ad5e287733ecdb68bab8bd",
+  "coreAssertions": 247,
+  "robolectricApi35Tests": 68,
+  "robolectricApi26Tests": 1,
+  "opaqueSurfaceChecked": true,
+  "blurAndSnapshotRenderingRemoved": true,
+  "smallScreenFontTest": {
+    "widthDp": 320,
+    "heightDp": 568,
+    "fontScale": 1.6
+  },
+  "backendFilesByteIdenticalTo140": 15,
+  "staticLightAndDarkRenderingReviewed": true,
+  "android16DeviceTest": false,
+  "overnightDeviceTest": false,
+  "measuredPowerSavingPercent": null
+}

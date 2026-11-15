@@ -1,0 +1,7 @@
+<resources>
+    <color name="icon_background">#FFFFFF</color>
+    <color name="app_surface">#F0F3F6</color>
+    <color name="app_container">#F6F8FA</color>
+    <color name="dialog_surface">#F8FAFC</color>
+    <color name="app_primary">#4A6985</color>
+</resources>

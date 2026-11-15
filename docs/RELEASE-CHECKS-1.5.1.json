@@ -1,0 +1,9 @@
+{
+  "versionName": "1.5.1",
+  "versionCode": 10501,
+  "apkSha256": "f07b989c15fe1c04a3d85dc8784fcd97481e51175ee17ccc3ea3d8768b728ae4",
+  "robolectricApi35Tests": 78,
+  "robolectricApi26Tests": 1,
+  "deviceTest": false,
+  "overnightTest": false
+}

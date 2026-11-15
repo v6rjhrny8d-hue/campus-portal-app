@@ -1,0 +1,8 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'org.campusportal.app'
+    compileSdk 35
+    defaultConfig { applicationId 'org.campusportal.app'; minSdk 26; targetSdk 35; versionCode 10508; versionName '1.5.8' }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+    buildTypes { release { minifyEnabled false } }
+}
