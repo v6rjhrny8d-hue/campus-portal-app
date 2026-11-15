@@ -1,8 +1,15 @@
-# 校园网助手
+# 校园网助手｜安卓自动登录校园网
 
-一款 Android 校园网认证工具，帮助你在指定时段检测宿舍 Wi-Fi 的联网状态，并在需要时尝试登录校园网。应用独立运行，无需 Root 或 Termux。
+一款 Android 校园网助手：设置好账号和宿舍 Wi-Fi 后，可按每天或选定星期的时段，在后台自动检测网络，并在需要时尝试登录校园网。无需 Root 或 Termux。
 
 **当前版本：1.5.8** · Android 8.0 及以上 · 原生 Java
+
+## 立即下载
+
+- **安卓用户：[下载校园网助手 1.5.8 安装包（APK）](https://github.com/v6rjhrny8d-hue/campus-portal-app/raw/refs/heads/main/releases/campus-portal-app-1.5.8.apk)**
+- **开发者：[下载 1.5.8 原始源码压缩包（ZIP）](https://github.com/v6rjhrny8d-hue/campus-portal-app/raw/refs/heads/main/releases/campus-portal-app-1.5.8-source.zip)**
+
+下载 APK 后在安卓手机上打开安装；系统可能要求允许浏览器或文件管理器安装应用。自动登录受校园网认证方式、系统后台限制和 Wi-Fi 状态影响，首次使用请先手动测试。
 
 ## 应用截图
 
